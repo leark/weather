@@ -20,7 +20,7 @@
 * _file-loader_
 * _jest_
 
-## [GitHub Pages Link](https://leark.github.io/template-repo)
+## [GitHub Pages Link](https://leark.github.io/weather)
 ## Description
 
 ## Setup/Installation Requirements
@@ -28,11 +28,11 @@
 1. Open Git Bash if on Windows and terminal if on Mac
 2. Run the command
 
-    ``git clone https://github.com/leark/template-repo.git``
+    ``git clone https://github.com/leark/weather.git``
 
 3. Run the command
 
-    ``cd template-repo
+    ``cd weather
 
 4. Run the command
 
